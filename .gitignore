@@ -1,0 +1,14 @@
+/.venv/
+/preprocessed_liar/liar_test.csv
+/preprocessed_liar/liar_train.csv
+/preprocessed_liar/liar_valid.csv
+/preprocessed_isot/isot_test.csv
+/preprocessed_isot/isot_train.csv
+/preprocessed_isot/isot_valid.csv
+/preprocessed_isot/isot.csv
+/liar_dataset/train.tsv
+/liar_dataset/valid.tsv
+/liar_dataset/test.tsv
+/liar_dataset/README
+/isot_dataset/Fake.csv
+/isot_dataset/True.csv
