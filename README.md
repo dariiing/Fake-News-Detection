@@ -2,7 +2,7 @@
 
 ## Introduction
 The goal of this project is to build a model that can detect fake news. 
-The datasets used in this project is the [LIAR dataset](https://paperswithcode.com/dataset/liar) and the [ISOT dataset](https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/).
+The datasets used in this project are the [LIAR dataset](https://paperswithcode.com/dataset/liar) and the [ISOT dataset](https://onlineacademiccommunity.uvic.ca/isot/2022/11/27/fake-news-detection-datasets/).
 
 ## Data
 The LIAR dataset contains 3 TSV files: train, test, and validation.
